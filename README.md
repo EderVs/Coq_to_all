@@ -1,2 +1,2 @@
-# Coq_to_all
+# Coq to all
 Online Interpreter of Coq
